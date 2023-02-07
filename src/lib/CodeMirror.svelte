@@ -85,7 +85,6 @@
     function update(value: string | null | undefined): void {
         if (first_update) {
             first_update = false;
-            return;
         }
 
         if (update_from_state) {
