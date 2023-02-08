@@ -1,7 +1,7 @@
 {
     "name": "svelte-codemirror-editor",
     "description": "A svelte component to create a CodeMirror 6+ editor",
-    "version": "0.0.0-development",
+    "version": "0.0.1",
     "type": "module",
     "license": "MIT",
     "author": {
